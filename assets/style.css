@@ -1,0 +1,9 @@
+body {
+	background-image: url('./assets/goofyimage.png');
+}
+main {
+	background-image: url('.assets/goofyimage.png');
+}
+.links {
+	text-emphasis: Bold;
+}
