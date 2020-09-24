@@ -7,3 +7,7 @@ main {
 .links {
 	text-emphasis: Bold;
 }
+.linkage {
+	text-emphasis: bold;
+	text-decoration-color: blueviolet;
+}
